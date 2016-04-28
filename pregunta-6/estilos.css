@@ -1,0 +1,38 @@
+ /* selector universal */
+*{
+    padding: 0;
+    margin: 0;
+}
+#navegacion{
+
+    color: #3e8686;
+    display: block;
+
+}
+h1{
+    text-align: center;
+font-size: 50px;
+}
+div a {
+    color: #1389e0;
+    text-decoration: none;
+    display: block;
+}
+div h2{
+    font-size: 20px;
+    width: 50%;
+    background: #ebebeb;
+    text-align: justify;
+    text-align: center
+    border-color: aqua;
+    border-radius: 10px 10px 10px 10px;
+}
+p{
+    text-align: center;
+}
+div h2 span{
+    color: red;
+}
+.cont{
+    color: aqua;
+}

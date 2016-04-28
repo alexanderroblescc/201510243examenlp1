@@ -1,0 +1,12 @@
+a~p{
+color: #e3e3e3;
+    background: #000000;
+}
+p{
+    color: aqua;
+    background: red;
+}
+hgroup > h3{
+    text-align: center;
+    color: #a7ac29;
+}

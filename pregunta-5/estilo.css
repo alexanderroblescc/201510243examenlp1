@@ -1,0 +1,22 @@
+a[href="galeria.html"]{
+    font-size: 25px;
+    background: #ff0000;
+    color: aliceblue;
+}
+a[href="cursos.html"]{
+    font-size: 25px;
+    background: #ff0000;
+    color: aliceblue;
+}
+div[class~="u"]{
+    background: #4284c6;
+}
+div[id~="d"]{
+    background: #bedfff;
+}
+div[class~="t"]{
+    background: #797979;
+}
+a{
+    text-decoration: none;
+}
